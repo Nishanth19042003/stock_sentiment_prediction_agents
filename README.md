@@ -1,1 +1,2 @@
-# stock_sentiment_prediction_agents
+# Stock Sentiment Prediction Agents
+This project implements a Stock Sentiment Prediction system leveraging AI agents to analyze news articles, social media data, and other sources for assessing the sentiment surrounding a particular stock or market trend. By combining machine learning and natural language processing (NLP), the system predicts the sentiment (positive, neutral, or negative) associated with stock-related content.
